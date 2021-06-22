@@ -2,12 +2,6 @@
 
 > A starter template for Gridsome for designers and developers to tell stories about their work.
 
-## [![Netlify Status](https://api.netlify.com/api/v1/badges/17e173de-05f2-4036-b290-6b59e34cff59/deploy-status)](https://app.netlify.com/sites/gridsome-portfolio-story/deploys)
-
-## One-click deploy to Netlify
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Edmund1645/gridsome-portfolio-story)
-
 ## Config
 
 - After build is successful, navigate to the identity tab on your dashboard, Enable it and invite yourself.
